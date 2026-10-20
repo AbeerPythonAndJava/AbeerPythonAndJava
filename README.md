@@ -44,12 +44,15 @@ and interactive learning experiences.
 **Currently Exploring:** AI Automation with n8n
 
 ---
+---
+
 ## 🚀 Featured Projects
 
 ### 🐍 Interactive Python Learning Platform
+
 [![Interactive Python Learning Platform](https://raw.githubusercontent.com/AbeerPythonAndJava/interactive-python-learning-platform/main/FB_IMG_1792515756128.jpg)](https://github.com/AbeerPythonAndJava/interactive-python-learning-platform)
-An interactive learning platform designed to help
-beginners learn Python through hands-on practice.
+
+An interactive learning platform designed to help beginners learn Python through hands-on practice.
 
 ✨ **Key Features:**
 - Interactive Python code editor
@@ -61,4 +64,3 @@ beginners learn Python through hands-on practice.
 🎬 Includes a demonstration video and screenshots.
 
 👉 [Explore the Project](https://github.com/AbeerPythonAndJava/interactive-python-learning-platform)
-
