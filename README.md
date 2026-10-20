@@ -3,6 +3,14 @@
 </div>
 
 
+<div align="center">
+
+# Hi, I'm Abeer Eissa! 👋💜
+
+### 👩‍🏫 Computer Science Lecturer | Python Trainer
+
+💜 **Teaching Logic Before Code**
+
 🎓 MSc in Computer Science
 
 🐍 Passionate about Python & Interactive Learning
@@ -20,16 +28,20 @@ and interactive learning experiences.
 </div>
 ---
 
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 
-<br>
+</div>
+
+**Programming:** Python • Java • Scratch
+
+**Core Concepts:** OOP • Problem Solving • Computational Thinking
 
 **Data Analysis:** Pandas • NumPy
 
-**AI Automation:** n8n (Learning & Building Projects)
-
-</div>
+**Currently Exploring:** AI Automation with n8n
