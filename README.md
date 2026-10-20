@@ -9,8 +9,6 @@
 
 ### 👩‍🏫 Computer Science Lecturer | Python Trainer
 
-💜 **Teaching Logic Before Code**
-
 🎓 MSc in Computer Science
 
 🐍 Passionate about Python & Interactive Learning
