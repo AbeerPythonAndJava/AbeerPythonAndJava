@@ -24,9 +24,25 @@ computational thinking, practical exercises,
 and interactive learning experiences.
 
 </div>
----
 
 ---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+
+</div>
+
+**Programming:** Python • Java • Scratch
+
+**Core Concepts:** OOP • Problem Solving • Computational Thinking
+
+**Data Analysis:** Pandas • NumPy
+
+**Currently Exploring:** AI Automation with n8n
+
 
 ## 🚀 Featured Projects
 
@@ -46,20 +62,3 @@ beginners learn Python through hands-on practice.
 
 👉 [Explore the Project](https://github.com/AbeerPythonAndJava/interactive-python-learning-platform)
 
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-
-</div>
-
-**Programming:** Python • Java • Scratch
-
-**Core Concepts:** OOP • Problem Solving • Computational Thinking
-
-**Data Analysis:** Pandas • NumPy
-
-**Currently Exploring:** AI Automation with n8n
