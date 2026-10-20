@@ -18,3 +18,18 @@ computational thinking, practical exercises,
 and interactive learning experiences.
 
 </div>
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github&theme=dark" />
+
+<br>
+
+**Data Analysis:** Pandas • NumPy
+
+**AI Automation:** n8n (Learning & Building Projects)
+
+</div>
