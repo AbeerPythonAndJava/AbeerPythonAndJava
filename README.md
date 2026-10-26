@@ -64,3 +64,11 @@ An interactive learning platform designed to help beginners learn Python through
 🎬 Includes a demonstration video and screenshots.
 
 👉 [Explore the Project](https://github.com/AbeerPythonAndJava/interactive-python-learning-platform)
+
+### 🤖 AI Student Registration & Notification System
+
+![AI Student Registration Workflow](https://raw.githubusercontent.com/AbeerPythonAndJava/AI-Student-Registration-Automation/main/student-registration-workflow.jpg)
+
+An AI-powered student registration prototype built with n8n, Google Gemini, Google Sheets, and Gmail.
+
+🎬 [View Project & Demo](https://github.com/AbeerPythonAndJava/AI-Student-Registration-Automation)
