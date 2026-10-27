@@ -44,7 +44,6 @@ and interactive learning experiences.
 **Currently Exploring:** AI Automation with n8n
 
 ---
----
 
 ## 🚀 Featured Projects
 
@@ -65,6 +64,8 @@ An interactive learning platform designed to help beginners learn Python through
 
 👉 [Explore the Project](https://github.com/AbeerPythonAndJava/interactive-python-learning-platform)
 
+---
+
 ### 🤖 AI Student Registration & Notification System
 
 ![AI Student Registration Workflow](https://raw.githubusercontent.com/AbeerPythonAndJava/AI-Student-Registration-Automation/main/student-registration-workflow.jpg)
@@ -72,3 +73,17 @@ An interactive learning platform designed to help beginners learn Python through
 An AI-powered student registration prototype built with n8n, Google Gemini, Google Sheets, and Gmail.
 
 🎬 [View Project & Demo](https://github.com/AbeerPythonAndJava/AI-Student-Registration-Automation)
+
+---
+
+### 🔐 ECC Email Encryption — Python
+
+![ECC Email Encryption](https://github.com/AbeerPythonAndJava/ecc-email-encryption/raw/main/file_00000000d96481fabfc51913e4581b2c.png)
+
+An educational cryptography project originally developed in Java and later reimplemented in Python using modern cryptographic techniques.
+
+**Technologies:** Python | X25519 | HKDF | AES-GCM
+
+🔒 Repository currently private — public release coming soon.
+
+---
