@@ -87,3 +87,13 @@ An educational cryptography project originally developed in Java and later reimp
 🔒 Repository currently private — public release coming soon.
 
 ---
+
+## 🎓 Student Management System — Python
+
+A menu-driven Python application developed as an educational project for beginner programming students.
+
+**Key Concepts:** Python | Functions | Loops | Conditions | File Handling | CRUD Operations
+
+🚧 **Project Status:** Code review and improvements in progress.
+
+---
