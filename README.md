@@ -90,6 +90,8 @@ An educational cryptography project originally developed in Java and later reimp
 
 ## 🎓 Student Management System — Python
 
+![Student Management System](file_000000008df081fa8e40b45f8784d640.png)
+
 A menu-driven Python application developed as an educational project for beginner programming students.
 
 **Key Concepts:** Python | Functions | Loops | Conditions | File Handling | CRUD Operations
