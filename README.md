@@ -84,7 +84,9 @@ An educational cryptography project originally developed in Java and later reimp
 
 **Technologies:** Python | X25519 | HKDF | AES-GCM
 
-🔒 Repository currently private — public release coming soon.
+📂 **Publicly available:** Python source code, a command-line interface, an educational ECC module, unit tests, and setup documentation, published under the MIT license. The original Java implementation is not included in this repository.
+
+👉 [Explore the Python Source & Documentation](https://github.com/AbeerPythonAndJava/ecc-email-encryption)
 
 ---
 
